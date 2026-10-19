@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "cli": {
+      "commandName": "Project",
+      "commandLineArgs": "cli bundle -l csharp -o \"my file.txt\"",
+      "workingDirectory": "c:\\test"
+    }
+  }
+}
